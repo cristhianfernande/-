@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10in"
+   height="10in"
+   viewBox="0 0 254 254"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="dibujo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.3114375"
+     inkscape:cx="142.38529"
+     inkscape:cy="111.73395"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g130"
+       inkscape:export-filename="..\..\..\Desktop\lmhlogo.svg"
+       inkscape:export-xdpi="16.890314"
+       inkscape:export-ydpi="16.890314">
+      <rect
+         style="fill:#000000;stroke-width:0.263915"
+         id="rect113"
+         width="5.0902076"
+         height="41.696815"
+         x="6.273787"
+         y="6.8985906"
+         ry="1.5968273"
+         inkscape:transform-center-x="-1.1185978"
+         inkscape:transform-center-y="-1.2783975" />
+      <rect
+         style="fill:#000000;stroke-width:0.225449"
+         id="rect113-87"
+         width="5.0794363"
+         height="30.492439"
+         x="32.736286"
+         y="21.997772"
+         ry="2.5042214"
+         transform="matrix(0.94729162,-0.32037258,0.33157696,0.94342817,0,0)" />
+      <rect
+         style="fill:#000000;stroke-width:0.263332"
+         id="rect113-7"
+         width="5.0911851"
+         height="41.50473"
+         x="-43.628864"
+         y="-49.753967"
+         ry="1.5894711"
+         transform="matrix(-0.99956605,-0.02945709,0.0164241,-0.99986512,0,0)" />
+      <rect
+         style="fill:#000000;stroke-width:0.226485"
+         id="rect113-2"
+         width="4.8319969"
+         height="32.348923"
+         x="58.344875"
+         y="-10.611182"
+         ry="2.7102289"
+         transform="matrix(0.95334482,0.3018835,-0.40076452,0.91618109,0,0)"
+         inkscape:export-filename="lmh.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#000000;stroke-width:0.26683"
+         id="rect113-1"
+         width="5.0902076"
+         height="42.622871"
+         x="58.937126"
+         y="8.6209412"
+         ry="1.6322916" />
+      <rect
+         style="fill:#000000;stroke-width:0.200758"
+         id="rect113-8"
+         width="5.0425353"
+         height="24.356026"
+         x="44.033798"
+         y="-34.848759"
+         ry="0.93274188"
+         transform="matrix(-0.08827143,0.99609646,-0.99946981,-0.03255904,0,0)"
+         inkscape:transform-center-x="-3.5305474"
+         inkscape:transform-center-y="-0.32670945" />
+      <rect
+         style="fill:#000000;stroke-width:0.194491"
+         id="rect113-5"
+         width="5.0897965"
+         height="22.646883"
+         x="23.751833"
+         y="-97.627975"
+         ry="0.86728829"
+         transform="matrix(-0.00563047,0.99998415,-0.99985872,-0.01680889,0,0)" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583"
+         id="rect305"
+         width="0.024960928"
+         height="2.6482649"
+         x="18.536764"
+         y="45.787342"
+         ry="0.012480464" />
+      <rect
+         style="fill:#000000;stroke-width:0.26829"
+         id="rect113-4"
+         width="5.0902076"
+         height="43.090954"
+         x="93.414612"
+         y="8.9222498"
+         ry="1.6502174" />
+      <rect
+         style="fill:#000000;stroke-width:0.268291"
+         id="rect113-9"
+         width="5.0902076"
+         height="43.090954"
+         x="72.864075"
+         y="8.4125366"
+         ry="1.6502173" />
+    </g>
+  </g>
+</svg>
